@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=openimcore.aar -DgroupId=com.yy -DartifactId=openimcore -Dversion=2.3.5.3 -Dpackaging=aar -DcreateChecksum=true -DcreateChecksum=true -DlocalRepositoryPath=./
