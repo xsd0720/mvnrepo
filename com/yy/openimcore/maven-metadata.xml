@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.openim</groupId>
-  <artifactId>OpenIMSDKCore</artifactId>
+  <groupId>com.yy</groupId>
+  <artifactId>openimcore</artifactId>
   <versioning>
     <release>2.3.5.3</release>
     <versions>
